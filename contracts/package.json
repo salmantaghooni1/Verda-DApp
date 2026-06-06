@@ -1,0 +1,22 @@
+{
+  "name": "verda-contracts",
+  "version": "1.0.0",
+  "description": "Smart contracts for Verda investment platform",
+  "scripts": {
+    "compile": "hardhat compile",
+    "deploy": "hardhat run scripts/deploy.ts",
+    "deploy:sepolia": "hardhat run scripts/deploy.ts --network sepolia",
+    "test": "hardhat test",
+    "verify": "hardhat verify"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "@openzeppelin/hardhat-upgrades": "^2.1.0",
+    "hardhat": "^2.18.0",
+    "typescript": "^5.3.0",
+    "dotenv": "^16.3.1"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}

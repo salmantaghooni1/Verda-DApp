@@ -1,0 +1,27 @@
+import { jsx as _jsx, jsxs as _jsxs } from "react/jsx-runtime";
+export const Icons = {
+    wallet: _jsxs("svg", { viewBox: "0 0 24 24", fill: "none", stroke: "currentColor", strokeWidth: "1.8", children: [_jsx("path", { d: "M3 7.5A2.5 2.5 0 0 1 5.5 5H17a2 2 0 0 1 2 2v1" }), _jsx("path", { d: "M3 7v10a2.5 2.5 0 0 0 2.5 2.5H19a2 2 0 0 0 2-2V11a2 2 0 0 0-2-2H5.5A2.5 2.5 0 0 1 3 6.5" }), _jsx("circle", { cx: "16.5", cy: "13.5", r: "1.2", fill: "currentColor" })] }),
+    bank: _jsxs("svg", { viewBox: "0 0 24 24", fill: "none", stroke: "currentColor", strokeWidth: "1.8", children: [_jsx("path", { d: "M3 9.5 12 4l9 5.5" }), _jsx("path", { d: "M5 10v8M9 10v8M15 10v8M19 10v8" }), _jsx("path", { d: "M3 20h18" })] }),
+    users: _jsxs("svg", { viewBox: "0 0 24 24", fill: "none", stroke: "currentColor", strokeWidth: "1.8", children: [_jsx("circle", { cx: "9", cy: "8", r: "3.2" }), _jsx("path", { d: "M3.5 19a5.5 5.5 0 0 1 11 0" }), _jsx("path", { d: "M16 5.2a3.2 3.2 0 0 1 0 6" }), _jsx("path", { d: "M17 14.2a5.5 5.5 0 0 1 3.5 4.8" })] }),
+    trend: _jsxs("svg", { viewBox: "0 0 24 24", fill: "none", stroke: "currentColor", strokeWidth: "1.8", children: [_jsx("path", { d: "M4 15l5-5 3.5 3.5L20 6" }), _jsx("path", { d: "M20 11V6h-5" })] }),
+    arrowUp: _jsx("svg", { viewBox: "0 0 24 24", fill: "none", stroke: "currentColor", strokeWidth: "2", children: _jsx("path", { d: "M12 19V5M6 11l6-6 6 6" }) }),
+    arrowDn: _jsx("svg", { viewBox: "0 0 24 24", fill: "none", stroke: "currentColor", strokeWidth: "2", children: _jsx("path", { d: "M12 5v14M6 13l6 6 6-6" }) }),
+    coins: _jsxs("svg", { viewBox: "0 0 24 24", fill: "none", stroke: "currentColor", strokeWidth: "1.8", children: [_jsx("ellipse", { cx: "9", cy: "7", rx: "5.5", ry: "3" }), _jsx("path", { d: "M3.5 7v5c0 1.7 2.5 3 5.5 3s5.5-1.3 5.5-3V7" }), _jsx("path", { d: "M14.5 11.2c2.4.3 4 1.4 4 2.8 0 1.7-2.5 3-5.5 3-1 0-2-.15-2.8-.4" })] }),
+    check: _jsx("svg", { viewBox: "0 0 24 24", fill: "none", stroke: "currentColor", strokeWidth: "2.2", children: _jsx("path", { d: "M5 12.5l4.5 4.5L19 7" }) }),
+    clock: _jsxs("svg", { viewBox: "0 0 24 24", fill: "none", stroke: "currentColor", strokeWidth: "1.8", children: [_jsx("circle", { cx: "12", cy: "12", r: "8.5" }), _jsx("path", { d: "M12 7.5V12l3 2" })] }),
+    shield: _jsxs("svg", { viewBox: "0 0 24 24", fill: "none", stroke: "currentColor", strokeWidth: "1.8", children: [_jsx("path", { d: "M12 3l7 3v5c0 4.5-3 8-7 10-4-2-7-5.5-7-10V6z" }), _jsx("path", { d: "M9 12l2 2 4-4" })] }),
+    bolt: _jsx("svg", { viewBox: "0 0 24 24", fill: "none", stroke: "currentColor", strokeWidth: "1.8", children: _jsx("path", { d: "M13 3 5 13h6l-1 8 8-10h-6z" }) }),
+    sun: _jsxs("svg", { viewBox: "0 0 24 24", fill: "none", stroke: "currentColor", strokeWidth: "1.8", children: [_jsx("circle", { cx: "12", cy: "12", r: "4" }), _jsx("path", { d: "M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4" })] }),
+    moon: _jsx("svg", { viewBox: "0 0 24 24", fill: "none", stroke: "currentColor", strokeWidth: "1.8", children: _jsx("path", { d: "M20 14.5A8 8 0 0 1 9.5 4 8 8 0 1 0 20 14.5z" }) }),
+    x: _jsx("svg", { viewBox: "0 0 24 24", fill: "none", stroke: "currentColor", strokeWidth: "2", children: _jsx("path", { d: "M6 6l12 12M18 6L6 18" }) }),
+    ext: _jsxs("svg", { viewBox: "0 0 24 24", fill: "none", stroke: "currentColor", strokeWidth: "1.8", children: [_jsx("path", { d: "M14 5h5v5M19 5l-8 8" }), _jsx("path", { d: "M18 13.5V18a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4.5" })] }),
+    alert: _jsxs("svg", { viewBox: "0 0 24 24", fill: "none", stroke: "currentColor", strokeWidth: "1.8", children: [_jsx("path", { d: "M12 8v5" }), _jsx("circle", { cx: "12", cy: "16.5", r: ".4", fill: "currentColor" }), _jsx("path", { d: "M10.3 4.2 3.4 16a2 2 0 0 0 1.7 3h13.8a2 2 0 0 0 1.7-3L13.7 4.2a2 2 0 0 0-3.4 0z" })] }),
+    lock: _jsxs("svg", { viewBox: "0 0 24 24", fill: "none", stroke: "currentColor", strokeWidth: "1.8", children: [_jsx("rect", { x: "5", y: "11", width: "14", height: "9", rx: "2" }), _jsx("path", { d: "M8 11V8a4 4 0 0 1 8 0v3" })] }),
+    swap: _jsxs("svg", { viewBox: "0 0 24 24", fill: "none", stroke: "currentColor", strokeWidth: "1.8", children: [_jsx("path", { d: "M4 8h13M14 5l3 3-3 3" }), _jsx("path", { d: "M20 16H7M10 13l-3 3 3 3" })] }),
+    doc: _jsxs("svg", { viewBox: "0 0 24 24", fill: "none", stroke: "currentColor", strokeWidth: "1.8", children: [_jsx("path", { d: "M6 3h8l4 4v12a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2z" }), _jsx("path", { d: "M13 3v5h5M8 13h8M8 17h5" })] }),
+    spark: _jsx("svg", { viewBox: "0 0 24 24", fill: "none", stroke: "currentColor", strokeWidth: "1.6", children: _jsx("path", { d: "M12 3v4M12 17v4M3 12h4M17 12h4M6 6l2.5 2.5M15.5 15.5 18 18M18 6l-2.5 2.5M8.5 15.5 6 18" }) }),
+    refresh: _jsxs("svg", { viewBox: "0 0 24 24", fill: "none", stroke: "currentColor", strokeWidth: "1.8", children: [_jsx("path", { d: "M20 11a8 8 0 0 0-14-4.5L4 8M4 4v4h4" }), _jsx("path", { d: "M4 13a8 8 0 0 0 14 4.5L20 16M20 20v-4h-4" })] }),
+    flask: _jsxs("svg", { viewBox: "0 0 24 24", fill: "none", stroke: "currentColor", strokeWidth: "1.7", children: [_jsx("path", { d: "M9 3h6M10 3v6l-4.5 8a2 2 0 0 0 1.8 3h9.4a2 2 0 0 0 1.8-3L14 9V3" }), _jsx("path", { d: "M7.5 14h9" })] }),
+    logo: _jsx("svg", { viewBox: "0 0 24 24", fill: "none", children: _jsx("path", { d: "M5 13.5c4 0 6-2 7-5.5 1 3.5 3 5.5 7 5.5-4 1-6 3-7 6.5-1-3.5-3-5.5-7-6.5z", fill: "currentColor" }) }),
+};
+//# sourceMappingURL=icons.js.map
